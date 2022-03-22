@@ -1,0 +1,5 @@
+n=input('Введите число: ')
+nn=int(n+n)
+nnn=int(n+n+n)
+n=int(n)
+print(f'n+nn+nnn будет равно: {n}+{nn}+{nnn} = {n+nn+nnn}')
